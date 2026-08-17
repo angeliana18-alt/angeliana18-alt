@@ -1,16 +1,24 @@
-## Hi there 👋
+📊 Data Analytics Portfolio
+---
 
-<!--
-**angeliana18-alt/angeliana18-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Analytics Portfolio.
+Here I collect my projects built with SQL, Excel, Power BI.
+All projects include documentation, insights, and visualizations. 
 
-Here are some ideas to get you started:
+I'm a Senior NDT Inspector with over 14 years of field experience in Oil & Gas, Petrochemical, and Power Generation, transitioning into data analytics — bringing a strong background in quality data, inspection standards, and structured problem-solving.
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What you’ll find here
+---
+
+SQL projects — data cleaning, transformations, analytical queries
+Excel - data analysis, reporting, modelling
+Power BI & DAX Dashboards — end-to-end BI solutions, Star Schema modeling, and executive financial reports
+***
+
+
+📬 Contact
+---
+
+If you’d like to connect or collaborate: www.linkedin.com/in/angel-iana
+***
